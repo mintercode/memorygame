@@ -11,6 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "bundler": "^0.8.0",
-    "parcel": "^2.6.1"
+    "cssnano": "^5.1.12",
+    "parcel": "^2.6.1",
+    "postcss": "^8.4.14"
   }
 }
