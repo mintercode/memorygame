@@ -1,7 +1,6 @@
 {
   "name": "memorygame2",
   "version": "1.0.0",
-  "description": "",
   "build": "parcel build index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +11,19 @@
   "devDependencies": {
     "bundler": "^0.8.0",
     "cssnano": "^5.1.12",
-    "parcel": "^2.6.1",
+    "parcel": "^2.6.2",
     "parcel-bundler": "^1.12.3",
     "postcss": "^8.4.14"
-  }
+  },
+  "main": "app.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintercode/memorygame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mintercode/memorygame/issues"
+  },
+  "homepage": "https://github.com/mintercode/memorygame#readme",
+  "description": ""
 }
